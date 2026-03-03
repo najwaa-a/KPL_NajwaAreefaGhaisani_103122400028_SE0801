@@ -1,0 +1,20 @@
+{
+  "name": "kpl_najwaareefaghaisani_103122400028_se0801",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/najwaa-a/KPL_NajwaAreefaGhaisani_103122400028_SE0801#readme",
+  "bugs": {
+    "url": "https://github.com/najwaa-a/KPL_NajwaAreefaGhaisani_103122400028_SE0801/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/najwaa-a/KPL_NajwaAreefaGhaisani_103122400028_SE0801.git"
+  },
+  "license": "ISC",
+  "author": "Najwa Areefa Ghaisani",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
