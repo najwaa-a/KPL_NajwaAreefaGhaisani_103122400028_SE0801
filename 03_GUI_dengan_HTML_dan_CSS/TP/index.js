@@ -23,22 +23,6 @@ editorElement.addEventListener("input", (event) => {
     lowercaseCountElement.textContent = lowercaseCount;
 });
 
-uppercaseCountElement.addEventListener("click", function() {
-    alert("Jumlah huruf besar: " + uppercaseCountElement.textContent);
-});
-
-lowercaseCountElement.addEventListener("click", function() {
-    alert("Jumlah huruf kecil: " + lowercaseCountElement.textContent);
-});
-
-btnParagraph.addEventListener("click", function() {
-    let text = editorElement.value.toLowerCase();
-    if (text.length > 0) {
-        text = text.charAt(0).toUpperCase() + text.slice(1);
-        editorElement.value = text;
-    }
-});
-
 
 
 
