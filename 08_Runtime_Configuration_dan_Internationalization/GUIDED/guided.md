@@ -25,7 +25,7 @@
 
 ### Note: 
 
-npm init -y (buat install package json)
+npm init -y (buat install package json)  
 npm install dotenv (node modules & package lock json)
 
  
